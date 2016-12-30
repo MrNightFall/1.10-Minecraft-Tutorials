@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "tutorial:blocks/green_colored_glowstone"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "tutorial:blocks/strawberry_stage_6"
+    }
+}

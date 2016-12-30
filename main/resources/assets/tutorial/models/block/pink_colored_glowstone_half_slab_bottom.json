@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "tutorial:blocks/pink_colored_glowstone",
+        "top": "tutorial:blocks/pink_colored_glowstone",
+        "side": "tutorial:blocks/pink_colored_glowstone"
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "variant=white": { "model": "tutorial:white_colored_glowstone" },
+        "variant=orange": { "model": "tutorial:orange_colored_glowstone" },
+        "variant=magenta": { "model": "tutorial:magenta_colored_glowstone" },
+        "variant=light_blue": { "model": "tutorial:light_blue_colored_glowstone" },
+        "variant=yellow": { "model": "tutorial:yellow_colored_glowstone" },
+        "variant=lime": { "model": "tutorial:lime_colored_glowstone" },
+        "variant=pink": { "model": "tutorial:pink_colored_glowstone" },
+        "variant=gray": { "model": "tutorial:gray_colored_glowstone" },
+        "variant=light_gray": { "model": "tutorial:light_gray_colored_glowstone" },
+        "variant=cyan": { "model": "tutorial:cyan_colored_glowstone" },
+        "variant=purple": { "model": "tutorial:purple_colored_glowstone" },
+        "variant=blue": { "model": "tutorial:blue_colored_glowstone" },
+        "variant=brown": { "model": "tutorial:brown_colored_glowstone" },
+        "variant=green": { "model": "tutorial:green_colored_glowstone" },
+        "variant=red": { "model": "tutorial:red_colored_glowstone" },
+        "variant=black": { "model": "tutorial:black_colored_glowstone" }
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "Doctor": {"category": "record", "sounds": [{"name": "tutorial:Doctor","stream": true}]},
+    "TutorialLive": {"category": "hostile", "sounds": [{"name": "tutorial:TutorialLive","stream": false}]},
+    "TutorialHurt": {"category": "hostile", "sounds": [{"name": "tutorial:TutorialHurt","stream": false}]},
+    "TutorialDeath": {"category": "hostile", "sounds": [{"name": "tutorial:TutorialDeath","stream": false}]}
+}

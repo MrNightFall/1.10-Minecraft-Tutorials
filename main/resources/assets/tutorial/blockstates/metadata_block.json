@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "type=white": { "model": "tutorial:white_metadata_block" },
+        "type=black": { "model": "tutorial:black_metadata_block" }
+    }
+}
